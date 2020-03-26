@@ -79,6 +79,7 @@ To avoid duplication, we think it is prudent to define a common interface betwee
 - [Cisco ACI CNI - for on-prem and cloud container networking with consistent policy and security model.](https://github.com/noironetworks/aci-containers)
 - [Kube-OVN - a CNI plugin that bases on OVN/OVS and provides advanced features like subnet, static ip, ACL, QoS, etc.](https://github.com/alauda/kube-ovn)
 - [Project Antrea - an Open vSwitch k8s CNI](https://github.com/vmware-tanzu/antrea)
+- [Flannel - a virtual network that gives a subnet to each host for use with container runtimes] (https://github.com/coreos/flannel/)
 
 The CNI team also maintains some [core plugins in a separate repository](https://github.com/containernetworking/plugins).
 
